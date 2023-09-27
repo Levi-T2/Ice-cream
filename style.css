@@ -1,0 +1,28 @@
+body {
+    background-color: wheat;
+}
+
+.cart {
+    background-color: white;
+    border-radius: 4%;
+    box-shadow: 4px 4px 4px black;
+    padding: 0.8rem;
+    margin: 0.8rem;
+}
+
+.cards {
+    background-color: white;
+    border-radius: 4%;
+    box-shadow: 4px 4px 4px black;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+
+.cart-identifiers {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-format {
+    border-radius: 3%;
+}
